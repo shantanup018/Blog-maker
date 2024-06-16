@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: red;
+    margin-left: 710px;
+}
+
+.post{
+    background-color: blanchedalmond;
+}
+
+.user{
+    font-style: italic;
+}
+
+p{
+    color: white;
+}
+
+.updt_btn{
+    background-color: lightgray;
+    font-weight: bold;
+    padding: 5px;
+    
+}
+.content{
+    font-weight: lighter;
+    /* font-weight: 600; */
+    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.link1{
+
+    border: 2px solid black;
+    text-decoration: none;
+    background-color: lightgray;
+    padding: 3px;
+    color: black;
+}
+.delete_btn{
+    margin-top: 10px;
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+div{
+    padding: 10px;
+}
+.link2{
+    text-decoration: none;
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+    border: 2px solid gray;
+    padding: 4px;
+    background-color: lightblue;
+    margin-left: 680px;
+}
